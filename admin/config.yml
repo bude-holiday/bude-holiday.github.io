@@ -15,3 +15,12 @@ collections:
           - {lable: Title, name: title, widget: hidden, default: home}
           - {lable: Layout, name: layout, widget: hidden, default: page}
           - {label: Body, name: body, widget: markdown}
+  - label: "Prices"
+    name: "prices"
+    folder: "_data/prices"
+    create: true
+    identifier_field: start
+    fields: 
+      - {label: "Start", name: "start", widget: "date", format: "DD MMMM YYYY", date_format: "DD MMMM YYYY"}
+      - {label: "End", name: "end", widget: "date", format: "DD MMMM YYYY", date_format: "DD MMMM YYYY"}
+      - {label: "Price", name: "price", widget: "number", value_type: "int", step: 1, min: 0}

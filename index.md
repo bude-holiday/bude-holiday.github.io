@@ -21,8 +21,6 @@ The bungalow is located in a quiet cul-de-sac with off road parking within easy 
 
 The bungalow consists of two bedrooms (one double, one twin), sitting room, conservatory, newly refurbished bathroom and enclosed sunny south facing rear garden.
 
-
-
 ## Contact
 
 Please contact for further information.
