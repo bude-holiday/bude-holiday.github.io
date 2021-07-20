@@ -5,7 +5,17 @@
 layout: page
 ---
 
-
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 ## Holiday Bungalow in Bude
 
 Newly available from summer 2021, two bedroom holiday bungalow in the beautiful North Cornish seaside town of Bude.

@@ -1,12 +1,17 @@
 backend:
   name: git-gateway
+  branch: jekyll
 media_folder: 'assets/uploads'
 collections: 
   - label: "Pages"
     name: "pages"
+    editor:
+      preview: false
     files:
       - label: "Home Page"
         name: "home"
         file: "index.md"
         fields:
-          - {label: Text, name: text, widget: markdown}
+          - {lable: Title, name: title, widget: hidden, default: home}
+          - {lable: Layout, name: layout, widget: hidden, default: page}
+          - {label: Body, name: body, widget: markdown}
