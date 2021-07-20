@@ -18,8 +18,10 @@ collections:
   - label: "Prices"
     name: "prices"
     folder: "_data/prices"
+    extension: "json"
     create: true
     identifier_field: start
+    summary: "{{start}}-{{end}}"
     fields: 
       - {label: "Start", name: "start", widget: "date", format: "DD MMMM YYYY", date_format: "DD MMMM YYYY"}
       - {label: "End", name: "end", widget: "date", format: "DD MMMM YYYY", date_format: "DD MMMM YYYY"}
