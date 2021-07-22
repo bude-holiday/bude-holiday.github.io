@@ -13,7 +13,7 @@ layout: page
   }
 </script>
 
-## Holiday Bungalow in Bude
+## Lovely Holiday Bungalow in Bude
 
 Pebblestones is a lovely detached bungalow located in the popular seaside North Cornish resort of Bude and is the perfect base to explore this spectacular area. It is a clean and comfortable home set in a quiet residential cul-de-sac with a private enclosed rear garden that is a 10/15 minute walk to both Summerleaze and Crooklets beaches and the centre of Bude town.
 
@@ -94,7 +94,9 @@ So many to choose from, these are some of our favourites
 
 **Bude**
 
-[The Bank](https://www.thebankatbude.co.uk/)…   a lovely Tapas bar, always busy you may need to book.\
+[The Bank](https://www.thebankatbude.co.uk/)…   a lovely Tapas bar, always busy you may need to book.
+
+\
 [Olive Tree](https://www.olivetreebude.co.uk/)…  fantastic food and a lovely sunny early evening spot.\
 [Life’s a beach](https://www.lifesabeach.info/)…   one of THE favourites, a lovely way to spend the evening watching the sun go down over the horizon.\
 [Brendon Arms](http://www.brendonarms.co.uk/traditional.pub.food.in.bude)…  good food, the garden catches the sun at lunchtime.\
