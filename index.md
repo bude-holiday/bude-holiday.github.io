@@ -98,9 +98,8 @@ So many to choose from, these are some of our favourites
 
 
 
-[The Bank](https://www.thebankatbude.co.uk/)…   a lovely Tapas bar, always busy you may need to book.[](https://www.olivetreebude.co.uk/)
+[Olive Tree](https://www.olivetreebude.co.uk/)…  fantastic food and a lovely sunny early evening spot
 
-[Olive Tree](https://www.olivetreebude.co.uk/)…  fantastic food and a lovely sunny early evening spot.\
 [Life’s a beach](https://www.lifesabeach.info/)…   one of THE favourites, a lovely way to spend the evening watching the sun go down over the horizon.\
 [Brendon Arms](http://www.brendonarms.co.uk/traditional.pub.food.in.bude)…  good food, the garden catches the sun at lunchtime.\
 [The Barge](http://www.thebargebude.co.uk/)…  lovely cakes, outdoor tables only, at the moment.\
