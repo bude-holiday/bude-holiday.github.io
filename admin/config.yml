@@ -23,6 +23,6 @@ collections:
     identifier_field: start
     summary: "{{start}}-{{end}}"
     fields: 
-      - {label: "Start", name: "start", widget: "date", format: "DD MMMM YYYY", date_format: "DD MMMM YYYY"}
-      - {label: "End", name: "end", widget: "date", format: "DD MMMM YYYY", date_format: "DD MMMM YYYY"}
+      - {label: "Start", name: "start", widget: "date", format: "X"}
+      - {label: "End", name: "end", widget: "date", format: "X"}
       - {label: "Price", name: "price", widget: "number", value_type: "int", step: 1, min: 0}
