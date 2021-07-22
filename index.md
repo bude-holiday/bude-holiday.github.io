@@ -96,7 +96,10 @@ So many to choose from, these are some of our favourites
 
 [The Bank](https://www.thebankatbude.co.uk/)…   a lovely Tapas bar, always busy you may need to book.
 
-\
+
+
+[The Bank](https://www.thebankatbude.co.uk/)…   a lovely Tapas bar, always busy you may need to book.[](https://www.olivetreebude.co.uk/)
+
 [Olive Tree](https://www.olivetreebude.co.uk/)…  fantastic food and a lovely sunny early evening spot.\
 [Life’s a beach](https://www.lifesabeach.info/)…   one of THE favourites, a lovely way to spend the evening watching the sun go down over the horizon.\
 [Brendon Arms](http://www.brendonarms.co.uk/traditional.pub.food.in.bude)…  good food, the garden catches the sun at lunchtime.\
@@ -104,7 +107,7 @@ So many to choose from, these are some of our favourites
 [The Weir](https://weir-restaurant-bude.co.uk/)…  lovely café, two mile walk along the canal or reached by car along the A39 heading south.\
 [Temple](https://www.templecornwall.com/)…    good vegan and vegetarian menu.\
 [Café Limelight](https://www.thecastlebude.co.uk/cafe-limelight/)…   lovely café in The Castle, also has outside tables.\
-[The Plaice](https://www.theplaice.net/) and the [Mermaid](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
+[](https://www.theplaice.net/)[The Plaice](https://www.theplaice.net/) and the [Mermaid](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
 
 **Crooklet’s Beach**
 
