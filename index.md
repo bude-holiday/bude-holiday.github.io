@@ -1,17 +1,6 @@
 ---
 layout: page
 ---
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 
 ## Lovely Holiday Bungalow in Bude
 
@@ -146,4 +135,4 @@ So many to choose from, these are some of our favourites
 Please contact for further information.
 
 * Website: [bude.holiday](//bude.holiday)
-* Email: [pebblestones@bude.holiday](mailto://pebblestones@bude.holiday)
+* Email: [pebblestones@bude.holiday](mailto:pebblestones@bude.holiday)

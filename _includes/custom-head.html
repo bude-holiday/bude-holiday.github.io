@@ -1,12 +1,21 @@
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <script>
-  netlifyIdentity.on("init", (user) => {
-    if (user || window.netlifyIdentity.store.isLocal) {
-      const adminLink = document.createElement("a");
-      adminLink.textContent = "Admin";
-      adminLink.setAttribute("href", "/admin/");
-      adminLink.classList.add("page-link");
-      document.querySelector(".site-nav > .trigger").append(adminLink);
-    }
-  });
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+    netlifyIdentity.on("init", (user) => {
+      if (user || window.netlifyIdentity.store.isLocal) {
+        const adminLink = document.createElement("a");
+        adminLink.textContent = "Admin";
+        adminLink.classList.add("page-link");
+        adminLink.setAttribute("href", "/admin/");
+        document.querySelector(".site-nav > .trigger").append(adminLink);
+      }
+    });
+  }
 </script>

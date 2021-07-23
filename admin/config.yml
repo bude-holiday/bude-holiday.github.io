@@ -7,6 +7,7 @@ backend:
 {% if jekyll.environment == "development" %}
 local_backend: true
 {% endif %}
+site_url: {{ site.url | replace_first: "0.0.0.0", "localhost"}}
 media_folder: 'assets/uploads'
 {% raw %}
 collections: 
@@ -24,6 +25,7 @@ collections:
           - {label: Body, name: body, widget: markdown}
   - label: "Prices"
     name: "prices"
+    preview_path: "prices/"
     files: 
       - label: "Prices"
         name: "prices"
@@ -33,7 +35,9 @@ collections:
             name: "prices"
             widget: "list"
             allow_add: true
-            summary: '{{fields.start}} - {{fields.end}}'
+            collapsed: true
+            sortable_fields: ['start']
+            summary: '{{fields.start}} --- {{fields.end}}:    £{{fields.price}}'
             fields:
             - {label: "Start", name: "start", widget: "datetime", format: "YYYY-MM-DD", time_format: false, date_format: "YYYY-MM-DD"}
             - {label: "End", name: "end", widget: "datetime", format: "YYYY-MM-DD", time_format: false, date_format: "YYYY-MM-DD"}
