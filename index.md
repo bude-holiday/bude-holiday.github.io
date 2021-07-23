@@ -1,9 +1,9 @@
 ---
 layout: page
 ---
-![](/assets/uploads/75200_bud190135_img_01_0000_max_656x437.jpg)
-
 ## Website currently under construction
+
+![](/assets/uploads/bude_house.jpg)
 
 ## Lovely Holiday Bungalow in Bude
 
