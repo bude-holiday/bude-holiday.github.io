@@ -111,6 +111,8 @@ So many to choose from, these are some of our favourites
 **Widemouth Bay**
 
 [Widemouth Bay Café](http://www.widemouthbaycafe.co.uk)…  Located at the Pay and Display car park, good breakfasts.
+[](http://www.elements-life.co.uk)
+
 [Elements](http://www.elements-life.co.uk)…   Amazing views, between Bude and Widemouth, lots of inside and outside space.
 
 ## Contact
