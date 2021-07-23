@@ -131,5 +131,5 @@ So many to choose from, these are some of our favourites
 
 Please contact for further information.
 
-* Website: [bude.holiday](//bude.holiday)
-* Email: [pebblestones@bude.holiday](mailto:pebblestones@bude.holiday)
+* Website: [{{site.url | remove: "http://" | remove: "https://"}}]({{site.url}})
+* Email: [{{site.email}}](mailto:{{site.email}})

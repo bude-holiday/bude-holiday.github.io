@@ -42,3 +42,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - serve.sh
+  - build.sh
