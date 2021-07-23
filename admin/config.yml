@@ -3,7 +3,7 @@ layout: null
 ---
 backend:
   name: git-gateway
-  branch: jekyll
+  branch: {{ site.branch }}
 {% if jekyll.environment == "development" %}
 local_backend: true
 {% endif %}
