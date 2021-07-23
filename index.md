@@ -70,15 +70,15 @@ A few highlights are:
 
 **Watersports**…   north Cornwall is renowned for its surfing beaches[, learn to surf, try kayaking or coasteering](https://www.shorelineactivities.co.uk/meet.shoreline.in.bude.cornwall/Simon+Hammond/51).  Have a trip out to [Tamar Lakes](https://www.swlakestrust.org.uk/Pages/Site/activities/Category/tamar-lakes) for a variety of activities.
 
-**Walks**…The South West Coast Path takes in some stunning scenery in both directions from Bude.  Feel free to borrow the walking guide books, one of our favourites is from [Duckpool](https://www.nationaltrust.org.uk/sandymouth/trails/sandymouth-to-duckpool-and-stowe-wood-circular-walk) beach through the Stowe Woods. Nearer home, there’s a short walk from the Weir along the [Hele Valley](https://www.southwestcoastpath.org.uk/print-walk/565/), lovely and cool on a sunny day.
+**Walks**…The South West Coast Path takes in some stunning scenery in both directions from Bude.  Feel free to borrow the walking guide books, one of our favourites is from [Duckpool](https://www.nationaltrust.org.uk/sandymouth/trails/sandymouth-to-duckpool-and-stowe-wood-circular-walk) beach through the Stowe Woods. Nearer home, there’s a short walk from the Weir along the [Hele Valley](https://www.southwestcoastpath.org.uk/print-walk/565), lovely and cool on a sunny day.
 
 **Cycle paths**…you can bring your own or hire one from [Bude bike hire](https://budebikehire.co.uk). The cycle path runs parallel to the canal and there are many quiet roads around the local villages.
 
-**[Bude Haven Recreation Ground](http://www.budehavenrec.co.uk/)**…crazy golf, tennis, bowling green right in the centre of town.
+**[Bude Haven Recreation Ground](http://www.budehavenrec.co.uk)**…crazy golf, tennis, bowling green right in the centre of town.
 
 **[Leisure Centre](https://www.better.org.uk/leisure-centre/cornwall/bude-leisure-centre)**… located near Morrisons.
 
-**[Ten pin bowling...Soft play](https://thevenuebude.co.uk/)**... also near Morrisons.
+**[Ten pin bowling...Soft play](https://thevenuebude.co.uk)**... also near Morrisons.
 
 **Shops**…there are a good variety of small independent shops and national chains in Bude. 
 
@@ -86,15 +86,15 @@ A few highlights are:
 
 **Bude**
 
-[The Bank](https://www.thebankatbude.co.uk/)…   a lovely Tapas bar, always busy you may need to book.\
-[Olive Tree](https://www.olivetreebude.co.uk/)…  fantastic local food and a lovely sunny early evening spot.\
-[Life’s a beach](https://www.lifesabeach.info/)…   one of THE favourites, a lovely way to spend the evening watching the sun go down over the horizon.\
-[Brendon Arms](http://www.brendonarms.co.uk/traditional.pub.food.in.bude)…  good food, the garden catches the sun at lunchtime.\
-[The Barge](http://www.thebargebude.co.uk/)…  lovely cakes, outdoor tables only, at the moment.\
-[The Weir](https://weir-restaurant-bude.co.uk/)…  lovely café, two mile walk along the canal or reached by car along the A39 heading south.\
-[Temple](https://www.templecornwall.com/)…    good vegan and vegetarian menu.\
-[Café Limelight](https://www.thecastlebude.co.uk/cafe-limelight/)…   lovely café in The Castle, also has outside tables.\
-[The Plaice](https://www.theplaice.net/) and the [Mermaid](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
+[The Bank](https://www.thebankatbude.co.uk)…   a lovely Tapas bar, always busy you may need to book.
+[Olive Tree](https://www.olivetreebude.co.uk)…  fantastic local food and a lovely sunny early evening spot.
+[Life’s a beach](https://www.lifesabeach.info)…   one of THE favourites, a lovely way to spend the evening watching the sun go down over the horizon.
+[Brendon Arms](http://www.brendonarms.co.uk/traditional.pub.food.in.bude)…  good food, the garden catches the sun at lunchtime.
+[The Barge](http://www.thebargebude.co.uk)…  lovely cakes, outdoor tables only, at the moment.
+[The Weir](https://weir-restaurant-bude.co.uk)…  lovely café, two mile walk along the canal or reached by car along the A39 heading south.
+[Temple](https://www.templecornwall.com)…    good vegan and vegetarian menu.
+[Café Limelight](https://www.thecastlebude.co.uk/cafe-limelight)…   lovely café in The Castle, also has outside tables.
+[The Plaice](https://www.theplaice.net) and the [Mermaid](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
 
 **Bars, Restaurants and Tea Shops**
 
