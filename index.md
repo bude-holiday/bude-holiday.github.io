@@ -97,6 +97,7 @@ A few highlights are:
 [The Plaice](https://www.theplaice.net) and the [Mermaid](https://www.tripadvisor.co.uk
 Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
 
+
 **Bars, Restaurants and Tea Shops**
 
 (Please check website prior to travelling to check on current Covid restrictions)
@@ -118,7 +119,6 @@ So many to choose from, these are some of our favourites
 **Widemouth Bay**
 
 [Widemouth Bay Café](http://www.widemouthbaycafe.co.uk)…  Located at the Pay and Display car park, good breakfasts.
-
 [Elements](http://www.elements-life.co.uk)…   Amazing views, between Bude and Widemouth, lots of inside and outside space.
 
 ## Contact
