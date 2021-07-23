@@ -1,0 +1,45 @@
+---
+layout: null
+---
+backend:
+  name: git-gateway
+  branch: jekyll
+{% if jekyll.environment == "development" %}
+local_backend: true
+{% endif %}
+site_url: {{ site.url | replace_first: "0.0.0.0", "localhost"}}
+media_folder: 'assets/uploads'
+{% raw %}
+collections: 
+  - label: "Pages"
+    name: "pages"
+    editor:
+      preview: true
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "index.md"
+        fields:
+          - {lable: Title, name: title, widget: hidden, default: home}
+          - {lable: Layout, name: layout, widget: hidden, default: page}
+          - {label: Body, name: body, widget: markdown}
+  - label: "Prices"
+    name: "prices"
+    preview_path: "prices/"
+    files: 
+      - label: "Prices"
+        name: "prices"
+        file: "_data/prices.json"
+        fields: 
+          - label: "Prices"
+            name: "prices"
+            widget: "list"
+            allow_add: true
+            collapsed: true
+            sortable_fields: ['start']
+            summary: '{{fields.start}} --- {{fields.end}}:    £{{fields.price}}'
+            fields:
+            - {label: "Start", name: "start", widget: "datetime", format: "YYYY-MM-DD", time_format: false, date_format: "YYYY-MM-DD"}
+            - {label: "End", name: "end", widget: "datetime", format: "YYYY-MM-DD", time_format: false, date_format: "YYYY-MM-DD"}
+            - {label: "Price", name: "price", widget: "number", value_type: "int", step: 1, min: 0}
+{% endraw %}
