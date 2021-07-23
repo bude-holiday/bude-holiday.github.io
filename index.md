@@ -104,17 +104,18 @@ So many to choose from, these are some of our favourites
 
 **Crooklet’s Beach**
 
-[Rosie’s Kitchen](https://www.rosieskitchen.co.uk/)…  a long-time favourite with us, good place for the kids to eat.\
+[Rosie’s Kitchen](https://www.rosieskitchen.co.uk)…  a long-time favourite with us, good place for the kids to eat.
 [Crooklet’s Beach Café](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d15073371-Reviews-Crooklets_Beach_Cafe-Bude_Bude_Stratton_Cornwall_England.html)…   lots of outside tables at Crooklet’s beach.
 
 **Sandymouth and Northcott Beaches**
 
-[The Rustic Tea Garden](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d1765417-Reviews-The_Rustic_Tea_Garden-Bude_Bude_Stratton_Cornwall_England.html)…   at Northcott Beach, walk along the beach at low tide or along the cliffs, a café-caravan in a lovely spot to have a cup of tea or ice cream.\
+[The Rustic Tea Garden](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d1765417-Reviews-The_Rustic_Tea_Garden-Bude_Bude_Stratton_Cornwall_England.html)…   at Northcott Beach, walk along the beach at low tide or along the cliffs, a café-caravan in a lovely spot to have a cup of tea or ice cream.
 [Sandymouth Café](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d5814474-Reviews-Sandymouth_Cafe-Bude_Bude_Stratton_Cornwall_England.html)…   lovely little café, tasty scones above Sandymouth beach.
 
 **Widemouth Bay**
 
 [Widemouth Bay Café](http://www.widemouthbaycafe.co.uk)…  Located at the Pay and Display car park, good breakfasts.
+
 [Elements](http://www.elements-life.co.uk)…   Amazing views, between Bude and Widemouth, lots of inside and outside space.
 
 ## Contact
