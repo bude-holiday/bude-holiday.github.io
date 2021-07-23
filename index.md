@@ -110,6 +110,7 @@ So many to choose from, these are some of our favourites
 **Sandymouth and Northcott Beaches**
 
 [The Rustic Tea Garden](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d1765417-Reviews-The_Rustic_Tea_Garden-Bude_Bude_Stratton_Cornwall_England.html)…   at Northcott Beach, walk along the beach at low tide or along the cliffs, a café-caravan in a lovely spot to have a cup of tea or ice cream.
+
 [Sandymouth Café](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d5814474-Reviews-Sandymouth_Cafe-Bude_Bude_Stratton_Cornwall_England.html)…   lovely little café, tasty scones above Sandymouth beach.
 
 **Widemouth Bay**
