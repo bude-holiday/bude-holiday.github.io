@@ -94,7 +94,8 @@ A few highlights are:
 [The Weir](https://weir-restaurant-bude.co.uk)…  lovely café, two mile walk along the canal or reached by car along the A39 heading south.
 [Temple](https://www.templecornwall.com)…    good vegan and vegetarian menu.
 [Café Limelight](https://www.thecastlebude.co.uk/cafe-limelight)…   lovely café in The Castle, also has outside tables.
-[The Plaice](https://www.theplaice.net) and the [Mermaid](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
+[The Plaice](https://www.theplaice.net) and the [Mermaid](https://www.tripadvisor.co.uk
+Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
 
 **Bars, Restaurants and Tea Shops**
 
@@ -105,6 +106,7 @@ So many to choose from, these are some of our favourites
 **Crooklet’s Beach**
 
 [Rosie’s Kitchen](https://www.rosieskitchen.co.uk)…  a long-time favourite with us, good place for the kids to eat.
+
 [Crooklet’s Beach Café](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d15073371-Reviews-Crooklets_Beach_Cafe-Bude_Bude_Stratton_Cornwall_England.html)…   lots of outside tables at Crooklet’s beach.
 
 **Sandymouth and Northcott Beaches**
