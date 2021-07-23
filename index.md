@@ -44,19 +44,13 @@ Bude is perfectly situated on the beautiful north Cornish coast for those who wa
 
 A short drive will take you to the picturesque villages of Tintagel, home of the legendary King Arthur’s Castle, Port Isaac, the setting for ‘Doc Martin’ and the village of Boscastle, Padstow and Rock. Further afield, The Milky Way, Big Sheep, Crealy Adventure Park, Newquay Zoo and the unique Eden Project make a fantastic family day out. The wild beauty of Dartmoor and Bodmin Moors are perfect for walkers.
 
-
-
 **Welcome Letter**
-
-
 
 **Things to do…Places to go**
 
 (Please check websites prior to travelling to check on current Covid restrictions)
 
-The best website to see things to do and places to go in the area is: <https://www.visitbude.info/>
-
-[Tourist information centre](https://www.visitbude.info/contact-bude-tourist-information-centre/), The Crescent, Bude, EX23 8LE
+The best website to see things to do and places to go in the area is:[ Tourist information centre](https://www.visitbude.info/contact-bude-tourist-information-centre/), The Crescent, Bude, EX23 8LE
 
 A few highlights are:
 
@@ -94,9 +88,8 @@ A few highlights are:
 [The Weir](https://weir-restaurant-bude.co.uk)…  lovely café, two mile walk along the canal or reached by car along the A39 heading south.
 [Temple](https://www.templecornwall.com)…    good vegan and vegetarian menu.
 [Café Limelight](https://www.thecastlebude.co.uk/cafe-limelight)…   lovely café in The Castle, also has outside tables.
-[The Plaice](https://www.theplaice.net) and the [Mermaid](https://www.tripadvisor.co.uk
+[The Plaice](https://www.theplaice.net) and the \[Mermaid](https://www.tripadvisor.co.uk
 Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
-
 
 **Bars, Restaurants and Tea Shops**
 
