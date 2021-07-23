@@ -1,3 +1,4 @@
+#!/bin/bash
 npx netlify-cms-proxy-server & docker run --rm\
   --volume="$(pwd -W):/srv/jekyll" \
   -p 4000:4000 \
