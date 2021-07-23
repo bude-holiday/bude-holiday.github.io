@@ -44,6 +44,8 @@ Bude is perfectly situated on the beautiful north Cornish coast for those who wa
 
 A short drive will take you to the picturesque villages of Tintagel, home of the legendary King Arthur’s Castle, Port Isaac, the setting for ‘Doc Martin’ and the village of Boscastle, Padstow and Rock. Further afield, The Milky Way, Big Sheep, Crealy Adventure Park, Newquay Zoo and the unique Eden Project make a fantastic family day out. The wild beauty of Dartmoor and Bodmin Moors are perfect for walkers.
 
+
+
 **Welcome Letter**
 
 **Things to do…Places to go**
@@ -78,6 +80,14 @@ A few highlights are:
 
 **Supermarkets**…Bude has three large supermarkets, Morrisons, Sainsburys and Lidl.  There is also a Co-op at the top of Lansdown Road and a small 24 hour convenience shop at the Esso garage at the bottom of Valley Road (both less than 10 mins walk). Don’t miss Lansdown Dairy, a delicatessen on Lansdown Road.
 
+
+
+**Bars, Restaurants and Tea Shops**
+
+(Please check website prior to travelling to check on current Covid restrictions)
+
+So many to choose from, these are some of our favourites
+
 **Bude**
 
 [The Bank](https://www.thebankatbude.co.uk)…   a lovely Tapas bar, always busy you may need to book.
@@ -90,12 +100,6 @@ A few highlights are:
 [Café Limelight](https://www.thecastlebude.co.uk/cafe-limelight)…   lovely café in The Castle, also has outside tables.
 [The Plaice](https://www.theplaice.net) and the \[Mermaid](https://www.tripadvisor.co.uk
 Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
-
-**Bars, Restaurants and Tea Shops**
-
-(Please check website prior to travelling to check on current Covid restrictions)
-
-So many to choose from, these are some of our favourites
 
 **Crooklet’s Beach**
 
