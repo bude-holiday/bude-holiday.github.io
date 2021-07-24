@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
+## Website currently under construction
+
 ## Lovely Holiday Bungalow in Bude
 
 Pebblestones is a lovely detached bungalow located in the popular seaside North Cornish resort of Bude and is the perfect base to explore this spectacular area. It is a clean and comfortable home set in a quiet residential cul-de-sac with a private enclosed rear garden that is a 10/15 minute walk to both Summerleaze and Crooklets beaches and the centre of Bude town.
