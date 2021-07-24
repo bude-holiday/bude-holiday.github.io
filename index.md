@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
+![](/assets/uploads/75200_bud190135_img_01_0000_max_656x437.jpg)
+
 ## Website currently under construction
 
 ## Lovely Holiday Bungalow in Bude
@@ -14,39 +16,27 @@ The rear sunny south facing garden is secluded and secure and a real suntrap. Mo
 
 The property is all on the ground floor, has gas central heating and comprises:
 
-
 Free Wi-Fi with good signal throughout the house 
-
 
 Living room: Two sofas. TV with Chromecast.
 
-
 Kitchen: With electric oven, gas hob, microwave, fridge/freezer and washing machine.
-
 
 Bedroom 1: With king size bed and large chest of drawers.
 
-
 Bedroom 2: With full size twin beds and wardrobe.
-
 
 Bathroom: With bath with grab rails, shower over bath, basin and toilet.
 
-
 Conservatory: Leading from the kitchen to the garden.  With a dining table for up to 6.
-
 
 Hall: With laptop desk workspace
 
-
 Garden: With picnic table, outside chairs and coffee table. There is also a rail to hang wetsuits and an outside tap and hose.  There are three steps up from the patio to the garden.  Please note the patio is bordered by a garden wall of 75cm, please ensure small children are supervised at all times.
-
 
 Garage: Space to store surfboards, bucket and spades etc.
 
-
 Front garden: There is off road space for one, or two small cars.
-
 
 Arrival time is after 4pm and departure is by 10am.  We would appreciate you adhering to these times to enable us to be able to clean the entire property to conform to Covid hygiene protocols.
 
