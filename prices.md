@@ -13,9 +13,9 @@ permalink: /prices/
 {% assign prices = site.data.prices.prices%}
 {% for price in prices %}
     <tr>
-        <td title="start"><time>{{ price.start | date: "%d %b %Y" }}</time></td>
-        <td title="end"><time>{{ price.end | date: "%d %b %Y" }}</time></td>
-        <td title="price">{{ price.price | times: 100 | money: "GBP" | remove: ".00"}}</td>
+        <td><time datetime="{{ price.start | date: "%F" }}">{{ price.start | date: "%d %b %Y" }}</time></td>
+        <td><time datetime="{{ price.end | date: "%F" }}">{{ price.end | date: "%d %b %Y" }}</time></td>
+        <td>{{ price.price | times: 100 | money: "GBP" | remove: ".00"}}</td>
     </tr>
 {% endfor %}
 </table>
