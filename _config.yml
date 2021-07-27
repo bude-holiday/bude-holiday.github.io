@@ -44,3 +44,4 @@ exclude:
   - vendor/ruby/
   - serve.sh
   - build.sh
+  - update.sh
