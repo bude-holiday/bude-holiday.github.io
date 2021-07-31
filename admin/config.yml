@@ -23,6 +23,19 @@ collections:
           - {lable: Title, name: title, widget: hidden, default: home}
           - {lable: Layout, name: layout, widget: hidden, default: page}
           - {label: Body, name: body, widget: markdown}
+  - label: "Gallery"
+    name: "gallery images"
+    folder: "gallery/_posts"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "/gallery/{{year}}/{{month}}/{{day}}/{{title}}.html"
+    extension: "md"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "gallery"}
+      - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Description", name: "body", widget: "markdown", required: false}
   - label: "Prices"
     name: "prices"
     preview_path: "prices/"
