@@ -3,7 +3,7 @@ layout: page
 ---
 ## Website currently under construction
 
-![](/assets/uploads/bude_house.jpg)
+![Pebblestone](/assets/uploads/bude_house.jpg){:width="800"}
 
 ## Lovely Holiday Bungalow in Bude
 

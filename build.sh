@@ -7,4 +7,5 @@ if [[ -n "${BRANCH}" ]]; then
     echo "updated branch to ${BRANCH}";
     sed -i "s#^branch:.*#branch: ${BRANCH}#g" _config.yml;
 fi
+npx imagemin-cli assets/uploads/* -o assets/uploads
 bundle exec jekyll build;
