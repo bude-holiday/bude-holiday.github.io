@@ -13,16 +13,16 @@ media_folder: 'assets/uploads'
 collections: 
   - label: "Pages"
     name: "pages"
-    editor:
-      preview: true
-    files:
-      - label: "Home Page"
-        name: "home"
-        file: "index.md"
-        fields:
-          - {lable: Title, name: title, widget: hidden, default: home}
-          - {lable: Layout, name: layout, widget: hidden, default: page}
-          - {label: Body, name: body, widget: markdown}
+    folder: "pages"
+    extension: "md"
+    create: true
+    slug: "{{title}}"
+    preview_path: "{{fields.permalink}}"
+    fields:
+      - {lable: Layout, name: layout, widget: hidden, default: page}
+      - {lable: Title, name: title, widget: string, default: ""}
+      - {label: Link, name: permalink, widget: string, default: ""}
+      - {label: Body, name: body, widget: markdown}
   - label: "Prices"
     name: "prices"
     preview_path: "prices/"

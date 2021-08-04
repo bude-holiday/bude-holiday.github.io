@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Home
+permalink: /
 ---
 ## Website currently under construction
 

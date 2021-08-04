@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prices
-permalink: /prices/
+permalink: /prices
 ---
 
 <table>
