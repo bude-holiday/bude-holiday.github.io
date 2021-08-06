@@ -9,3 +9,4 @@ if [[ -n "${BRANCH}" ]]; then
 fi
 npx imagemin-cli assets/uploads/* -o assets/uploads
 bundle exec jekyll build;
+npm run build

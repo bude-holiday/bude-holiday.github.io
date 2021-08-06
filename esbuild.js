@@ -10,7 +10,7 @@ esbuild.buildSync({
   },
   entryPoints: ["_ts/admin.tsx"],
   minify: !dev,
-  outdir: dev ? "_site/assets" : "assets",
+  outdir: "_site/assets",
   sourcemap: dev && "inline",
   platform: "browser",
 });
