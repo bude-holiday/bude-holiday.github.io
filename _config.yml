@@ -45,3 +45,6 @@ exclude:
   - serve.sh
   - build.sh
   - update.sh
+  - package.json
+  - package-lock.json
+  - esbuild.json
