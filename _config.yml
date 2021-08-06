@@ -48,3 +48,4 @@ exclude:
   - package.json
   - package-lock.json
   - esbuild.json
+  - .editorconfig

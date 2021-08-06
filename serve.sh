@@ -1,5 +1,4 @@
 #!/bin/bash
-npm run build;
 npx netlify-cms-proxy-server & docker run --rm\
   --volume="$(pwd -W):/srv/jekyll" \
   -p 4000:4000 \
@@ -7,4 +6,5 @@ npx netlify-cms-proxy-server & docker run --rm\
   -it \
   jekyll/jekyll \
   jekyll serve --force_polling --livereload;
+npm run build;
 npx kill-port 8081;
