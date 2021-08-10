@@ -1,6 +1,6 @@
 ---
-title: Wet suit rail in garden
+title: Bathroom
 layout: gallery
 date: 2021-08-10T02:42:52.236Z
-image: /assets/uploads/img_2200.jpg
+image: /assets/uploads/img_2215.jpg
 ---
