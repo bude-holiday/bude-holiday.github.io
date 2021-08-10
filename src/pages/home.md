@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /
+slug: /
 ---
 ## Website currently under construction
 
@@ -69,11 +69,11 @@ A few highlights are:
 
 **[Beach huts](https://www.visitbude.info/beach-lovers/hire-a-beach-hut/)**…can be hired on a daily or weekly basis.
 
-**Canal**…you can hire pedaloes, canoes and stand-up paddle boards.  Take a walk down to the Weir, enjoy lunch or a coffee.
+**Canal**…you can hire pedaloes, canoes and stand-up paddle boards.  Take a walk down to the Weir, enjoy lunch or a coffee.
 
-**Watersports**…   north Cornwall is renowned for its surfing beaches[, learn to surf, try kayaking or coasteering](https://www.shorelineactivities.co.uk/meet.shoreline.in.bude.cornwall/Simon+Hammond/51).  Have a trip out to [Tamar Lakes](https://www.swlakestrust.org.uk/Pages/Site/activities/Category/tamar-lakes) for a variety of activities.
+**Watersports**…   north Cornwall is renowned for its surfing beaches[, learn to surf, try kayaking or coasteering](https://www.shorelineactivities.co.uk/meet.shoreline.in.bude.cornwall/Simon+Hammond/51).  Have a trip out to [Tamar Lakes](https://www.swlakestrust.org.uk/Pages/Site/activities/Category/tamar-lakes) for a variety of activities.
 
-**Walks**…The South West Coast Path takes in some stunning scenery in both directions from Bude.  Feel free to borrow the walking guide books, one of our favourites is from [Duckpool](https://www.nationaltrust.org.uk/sandymouth/trails/sandymouth-to-duckpool-and-stowe-wood-circular-walk) beach through the Stowe Woods. Nearer home, there’s a short walk from the Weir along the [Hele Valley](https://www.southwestcoastpath.org.uk/print-walk/565), lovely and cool on a sunny day.
+**Walks**…The South West Coast Path takes in some stunning scenery in both directions from Bude.  Feel free to borrow the walking guide books, one of our favourites is from [Duckpool](https://www.nationaltrust.org.uk/sandymouth/trails/sandymouth-to-duckpool-and-stowe-wood-circular-walk) beach through the Stowe Woods. Nearer home, there’s a short walk from the Weir along the [Hele Valley](https://www.southwestcoastpath.org.uk/print-walk/565), lovely and cool on a sunny day.
 
 **Cycle paths**…you can bring your own or hire one from [Bude bike hire](https://budebikehire.co.uk). The cycle path runs parallel to the canal and there are many quiet roads around the local villages.
 
@@ -83,9 +83,9 @@ A few highlights are:
 
 **[Ten pin bowling...Soft play](https://thevenuebude.co.uk)**... also near Morrisons.
 
-**Shops**…there are a good variety of small independent shops and national chains in Bude. 
+**Shops**…there are a good variety of small independent shops and national chains in Bude. 
 
-**Supermarkets**…Bude has three large supermarkets, Morrisons, Sainsburys and Lidl.  There is also a Co-op at the top of Lansdown Road and a small 24 hour convenience shop at the Esso garage at the bottom of Valley Road (both less than 10 mins walk). Don’t miss Lansdown Dairy, a delicatessen on Lansdown Road.
+**Supermarkets**…Bude has three large supermarkets, Morrisons, Sainsburys and Lidl.  There is also a Co-op at the top of Lansdown Road and a small 24 hour convenience shop at the Esso garage at the bottom of Valley Road (both less than 10 mins walk). Don’t miss Lansdown Dairy, a delicatessen on Lansdown Road.
 
 **Bars, Restaurants and Tea Shops**
 
@@ -95,42 +95,42 @@ So many to choose from, these are some of our favourites
 
 **Bude**
 
-[The Bank](https://www.thebankatbude.co.uk)…   a lovely Tapas bar, always busy you may need to book.
+[The Bank](https://www.thebankatbude.co.uk)…   a lovely Tapas bar, always busy you may need to book.
 
-[Olive Tree](https://www.olivetreebude.co.uk)…  fantastic local food and a lovely sunny early evening spot.
+[Olive Tree](https://www.olivetreebude.co.uk)…  fantastic local food and a lovely sunny early evening spot.
 
-[Life’s a beach](https://www.lifesabeach.info)…   one of THE favourites, a lovely way to spend the evening watching the sun go down over the horizon.
+[Life’s a beach](https://www.lifesabeach.info)…   one of THE favourites, a lovely way to spend the evening watching the sun go down over the horizon.
 
-[Brendon Arms](http://www.brendonarms.co.uk/traditional.pub.food.in.bude)…  good food, the garden catches the sun at lunchtime.
+[Brendon Arms](http://www.brendonarms.co.uk/traditional.pub.food.in.bude)…  good food, the garden catches the sun at lunchtime.
 
-[The Barge](http://www.thebargebude.co.uk)…  lovely cakes, outdoor tables only, at the moment.
+[The Barge](http://www.thebargebude.co.uk)…  lovely cakes, outdoor tables only, at the moment.
 
-[The Weir](https://weir-restaurant-bude.co.uk)…  lovely café, two mile walk along the canal or reached by car along the A39 heading south.
+[The Weir](https://weir-restaurant-bude.co.uk)…  lovely café, two mile walk along the canal or reached by car along the A39 heading south.
 
-[Temple](https://www.templecornwall.com)…    good vegan and vegetarian menu.
+[Temple](https://www.templecornwall.com)…    good vegan and vegetarian menu.
 
-[Café Limelight](https://www.thecastlebude.co.uk/cafe-limelight)…   lovely café in The Castle, also has outside tables.
+[Café Limelight](https://www.thecastlebude.co.uk/cafe-limelight)…   lovely café in The Castle, also has outside tables.
 
 [The Plaice](https://www.theplaice.net/) and the [Mermaid](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d3454611-Reviews-The_Mermaid_Takeaway-Bude_Bude_Stratton_Cornwall_England.html) Fish and Chip Take Aways, you can take them to the benches above Summerleaze and enjoy the view.
 
 **Crooklet’s Beach**
 
-[Rosie’s Kitchen](https://www.rosieskitchen.co.uk)…  a long-time favourite with us, good place for the kids to eat.[](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d15073371-Reviews-Crooklets_Beach_Cafe-Bude_Bude_Stratton_Cornwall_England.html)
+[Rosie’s Kitchen](https://www.rosieskitchen.co.uk)…  a long-time favourite with us, good place for the kids to eat.[](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d15073371-Reviews-Crooklets_Beach_Cafe-Bude_Bude_Stratton_Cornwall_England.html)
 
-[Crooklet’s Beach Café](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d15073371-Reviews-Crooklets_Beach_Cafe-Bude_Bude_Stratton_Cornwall_England.html)…   lots of outside tables at Crooklet’s beach.
+[Crooklet’s Beach Café](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d15073371-Reviews-Crooklets_Beach_Cafe-Bude_Bude_Stratton_Cornwall_England.html)…   lots of outside tables at Crooklet’s beach.
 
 **Sandymouth and Northcott Beaches**
 
-[The Rustic Tea Garden](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d1765417-Reviews-The_Rustic_Tea_Garden-Bude_Bude_Stratton_Cornwall_England.html)…   at Northcott Beach, walk along the beach at low tide or along the cliffs, a café-caravan in a lovely spot to have a cup of tea or ice cream.
+[The Rustic Tea Garden](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d1765417-Reviews-The_Rustic_Tea_Garden-Bude_Bude_Stratton_Cornwall_England.html)…   at Northcott Beach, walk along the beach at low tide or along the cliffs, a café-caravan in a lovely spot to have a cup of tea or ice cream.
 
-[](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d5814474-Reviews-Sandymouth_Cafe-Bude_Bude_Stratton_Cornwall_England.html)[Sandymouth Café](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d5814474-Reviews-Sandymouth_Cafe-Bude_Bude_Stratton_Cornwall_England.html)…   lovely little café, tasty scones above Sandymouth beach.
+[](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d5814474-Reviews-Sandymouth_Cafe-Bude_Bude_Stratton_Cornwall_England.html)[Sandymouth Café](https://www.tripadvisor.co.uk/Restaurant_Review-g190804-d5814474-Reviews-Sandymouth_Cafe-Bude_Bude_Stratton_Cornwall_England.html)…   lovely little café, tasty scones above Sandymouth beach.
 
 **Widemouth Bay**
 
-[Widemouth Bay Café](http://www.widemouthbaycafe.co.uk)…  Located at the Pay and Display car park, good breakfasts.
+[Widemouth Bay Café](http://www.widemouthbaycafe.co.uk)…  Located at the Pay and Display car park, good breakfasts.
 [](http://www.elements-life.co.uk)
 
-[Elements](http://www.elements-life.co.uk)…   Amazing views, between Bude and Widemouth, lots of inside and outside space.
+[Elements](http://www.elements-life.co.uk)…   Amazing views, between Bude and Widemouth, lots of inside and outside space.
 
 ## Contact
 
