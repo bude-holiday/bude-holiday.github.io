@@ -1,14 +1,10 @@
 ---
-layout: page
 title: Home
 slug: /
 ---
 ## Website currently under construction
 
-<picture>
-    <source type="image/webp" srcset="/assets/uploads/bude_house.webp">
-    <img alt="Pebblestone" src="/assets/uploads/bude_house.jpg" width="740" height="326" />
-</picture>
+![Pebblestone](/src/images/bude_house.jpg "Pebblestone")
 
 ## Lovely Holiday Bungalow in Bude
 
