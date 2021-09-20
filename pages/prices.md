@@ -3,7 +3,6 @@ layout: page
 title: Prices
 permalink: /prices
 ---
-
 <table>
     <tr>
         <th>Start</th>
@@ -19,3 +18,5 @@ permalink: /prices
     </tr>
 {% endfor %}
 </table>
+
+Long bookings
