@@ -18,5 +18,3 @@ permalink: /prices
     </tr>
 {% endfor %}
 </table>
-
-Long bookings
