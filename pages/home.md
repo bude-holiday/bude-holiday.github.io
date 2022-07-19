@@ -43,7 +43,7 @@ Garage: Space to store surfboards, bucket and spades etc.
 
 Front garden: There is off road space for one, or two small cars.
 
-Arrival time is after 4pm and departure is by 10am.  We would appreciate you adhering to these times to enable us to be able to clean the entire property to conform to Covid hygiene protocols.
+Arrival time is after 4pm and departure is by 10am.  
 
 Please note there is a no smoking policy at Pebblestones.  Bed linen and pillows are provided, but due to Covid cleaning protocols, please bring your own towels.
 
@@ -56,8 +56,6 @@ A short drive will take you to the picturesque villages of Tintagel, home of the
 **Welcome Letter**
 
 **Things to do…Places to go**
-
-(Please check websites prior to travelling to check on current Covid restrictions)
 
 The best website to see things to do and places to go in the area is:[ Tourist information centre](https://www.visitbude.info/contact-bude-tourist-information-centre/), The Crescent, Bude, EX23 8LE
 
@@ -88,8 +86,6 @@ A few highlights are:
 **Supermarkets**…Bude has three large supermarkets, Morrisons, Sainsburys and Lidl.  There is also a Co-op at the top of Lansdown Road and a small 24 hour convenience shop at the Esso garage at the bottom of Valley Road (both less than 10 mins walk). Don’t miss Lansdown Dairy, a delicatessen on Lansdown Road.
 
 **Bars, Restaurants and Tea Shops**
-
-(Please check website prior to travelling to check on current Covid restrictions)
 
 So many to choose from, these are some of our favourites
 
