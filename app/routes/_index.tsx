@@ -35,6 +35,9 @@ export default function Index() {
             Remix Docs
           </a>
         </li>
+				<li>
+					<a href="/admin/index.html">admin page</a>
+				</li>
       </ul>
     </div>
   );
