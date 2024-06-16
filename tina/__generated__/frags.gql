@@ -1,0 +1,9 @@
+fragment PricesParts on Prices {
+  __typename
+  price {
+    __typename
+    startDate
+    endDate
+    price
+  }
+}
